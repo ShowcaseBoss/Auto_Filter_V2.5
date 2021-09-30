@@ -80,7 +80,7 @@ async def start(bot, update):
             await update.bot.send_video(
                 chat_id=update.chat.id,
                 video = file_id,
-                caption = caption,
+                caption = 
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
