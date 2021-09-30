@@ -12,5 +12,3 @@ You can deploy this bot anywhere.
 </a>
 </p>
 </details>
-
-<
