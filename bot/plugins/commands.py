@@ -80,7 +80,20 @@ async def start(bot, update):
             await update.bot.send_video(
                 chat_id=update.chat.id,
                 video = file_id,
-                caption = 
+                caption = ❤️ 𝚃𝚑𝚊𝚗𝚔𝚢𝚘𝚞 𝙵𝚘𝚛 𝚄𝚜𝚒𝚗𝚐 𝙾𝚞𝚛 𝚂𝚎𝚛𝚟𝚒𝚌𝚎 𝙿𝚕𝚎𝚊𝚜𝚎 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝚄𝚜 𝙱𝚢 𝚂𝚑𝚊𝚛𝚒𝚗𝚐 𝙾𝚞𝚛 𝙲𝚑𝚊𝚗𝚗𝚎𝚕/𝙶𝚛𝚘𝚞𝚙 𝙻𝚒𝚗𝚔 𝚃𝚘 𝚈𝚘𝚞𝚛 𝙵𝚛𝚒𝚎𝚗𝚍𝚜\n 
+ \n
+ ❁𝕁𝕠𝕚𝕟 𝕆𝕦𝕣 ℂ𝕙𝕒𝕟𝕟𝕖𝕝𝕤❁ \n
+\n
+🤖 Bots for common use👇 \n
+👇🏻(Rename, Group Manager, etc)👇🏻 \n
+https://t.me/bots_showcase \n
+🎬 Movie request group👇 \n
+https://t.me/mymovieshowcase \n
+ 🎭 Cartoon👇 \n
+https://t.me/tamil_cartoon_ms \n
+📺 Series request group👇 \n
+https://t.me/series_showcase \n
+🎗️ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
@@ -99,7 +112,20 @@ async def start(bot, update):
             await update.bot.send_audio(
                 chat_id=update.chat.id,
                 audio = file_id,
-                caption = caption,
+                caption = ❤️ 𝚃𝚑𝚊𝚗𝚔𝚢𝚘𝚞 𝙵𝚘𝚛 𝚄𝚜𝚒𝚗𝚐 𝙾𝚞𝚛 𝚂𝚎𝚛𝚟𝚒𝚌𝚎 𝙿𝚕𝚎𝚊𝚜𝚎 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝚄𝚜 𝙱𝚢 𝚂𝚑𝚊𝚛𝚒𝚗𝚐 𝙾𝚞𝚛 𝙲𝚑𝚊𝚗𝚗𝚎𝚕/𝙶𝚛𝚘𝚞𝚙 𝙻𝚒𝚗𝚔 𝚃𝚘 𝚈𝚘𝚞𝚛 𝙵𝚛𝚒𝚎𝚗𝚍𝚜\n 
+ \n
+ ❁𝕁𝕠𝕚𝕟 𝕆𝕦𝕣 ℂ𝕙𝕒𝕟𝕟𝕖𝕝𝕤❁ \n
+\n
+🤖 Bots for common use👇 \n
+👇🏻(Rename, Group Manager, etc)👇🏻 \n
+https://t.me/bots_showcase \n
+🎬 Movie request group👇 \n
+https://t.me/mymovieshowcase \n
+ 🎭 Cartoon👇 \n
+https://t.me/tamil_cartoon_ms \n
+📺 Series request group👇 \n
+https://t.me/series_showcase \n
+🎗️ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
