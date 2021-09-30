@@ -6,23 +6,22 @@ class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
 
-<b>I am a Pro AutoFilterBot V2....😜</b>
+<b>I am a AutoFilterBot V3....😜</b>
 
-<b>Make me an admin for your group and channel then connect me....🎉</b>
+<b>For movie & series filter For sale go to help bar for details</b>
 
-<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
-
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b>Subscribe to the update channel</b>
 
 <b>Press /help to know about available commands🤪</b>"""    
     
     HELP_TEXT = """
-<b>😉How To Use Me!😉?</b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> For Movies & Series filters contact 👇🏻
+-> https://t.me/ShowcasE_Feedback
 </i>
+
+<b>😉How To Use Me!😉?</b>
 
 <b>Bot Commands (Works Only In Groups) :</b>
 
@@ -45,19 +44,13 @@ class Translation(object):
             -> <code>Configure</code> - <b>Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results</b>
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
-            
-<b><a href="https://t.me/Mo_Tech_YT">© Mo Tech YT</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
-
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MRk_YT">👤Mrk YT</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/ShowcasE_Feedback">👤 Showcase Boss</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
-
-<b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
 <b>➥ 📖Source Code</b> : <b><a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2">💥Click Me</a></b>
 """
